@@ -9,6 +9,16 @@ header {
     background-color: #3939c8;
     color: white;
     display: flex;
-    align-items: center; /* függőleges középre igazítás */
-    justify-content: center; /* vízszintes középre */
+    align-items: center;
+    justify-content: center;
+}
+main {
+    background-color: #aaaaaa;
+    color: black;
+    min-height: calc(100vh - 100px - 150px); /* header + footer magasságot levonjuk */
+    padding: 20px;
+}
+.content article {
+    max-width: 800px;
+    margin: 0 auto 20px auto;
 }
