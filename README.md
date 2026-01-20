@@ -36,6 +36,7 @@ A feladat célja verziókezelés, branchek, pull requestek és egy statikus webo
 git init
 git add README.md
 git commit -m "Első commit"
+```
 
 **CSS3:** Stíluslap nyelv, amely a weboldalak kinézetének megtervezésére szolgál. Lehetővé teszi színek, betűtípusok, elrendezések, animációk és reszponzív dizájnok alkalmazását.
 ```css
