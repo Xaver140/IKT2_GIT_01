@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    height: 100px;
+    padding: 10px;
+    background-color: #3939c8;
+    color: white;
+    display: flex;
+    align-items: center; /* függőleges középre igazítás */
+    justify-content: center; /* vízszintes középre */
+}
